@@ -1,0 +1,17 @@
+---
+title: "Marc_assignment2"
+author: "Marc"
+date: "2023-09-26"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+From the website: https://retractionwatch.com/2015/12/10/astrophysicists-issue-two-detailed-corrections/
+Two issues have been identified in the catalog of “mock” galaxies, a catalog authored by Fabio Zandanel, a postdoc at the University of Amsterdam. These issues include a mass conversion problem and the allocation of the gas-fraction quantity for each object, both of which were omissions in a significant code. These errors impacted two papers, in addition, multiple tables and figure were incorrect. However, the most fortunate and interesting aspect of this situation is that it had no impact on the final outcome as both errors canceled each other. Nevertheless, although the final conclusion remains unaffected by these errors, it is imperative to rectify these minor inaccuracies, as this data may be used for other research purposes.
+By considering the research data lifecycle, it seems that the researchers of that article faced problems in the step of “Process/analyze/interpret data”.
+
